@@ -1,4 +1,5 @@
 
+This script looks up hash from filenames such as virusshare_38bc9f0d841c20d288a3fb3f1b235beb and organizes them
 
 ```python
 import glob
